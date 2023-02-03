@@ -4,14 +4,14 @@ TaskMaster is an open-source to-do list application that helps you keep track of
 
 ## Table of Contents
 
-- Getting Started
-  - Prerequisites
-  - Installation
-- Usage
-- Backend
-- Frontend
-- Contributing
-- License
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
 
